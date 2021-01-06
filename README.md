@@ -5,4 +5,4 @@ For the final project in my Georgia Tech ISYE 6420 Bayesian Statistics course I 
 
 ---
 ### Where to learn more?
-Please follow my blog series at arslan-aziz.com for a series of posts containing a breakdown of conceptual and implementation details of this project. Hopefully you find these resources useful to learn a bit about Bayesian methods!
+Please follow my blog series at [arslan-aziz.com](arslan-aziz.com) for a series of posts containing a breakdown of conceptual and implementation details of this project. Hopefully you find these resources useful to learn a bit about Bayesian methods!
